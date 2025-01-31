@@ -1,0 +1,1 @@
+User-agent: * Disallow: Sitemap: https://BasmalaSallam.github.io/sitemap.xml
